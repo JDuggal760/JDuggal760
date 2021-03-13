@@ -44,7 +44,7 @@
   </p>
   <p align="center">
 
-<h3>Hackathons+ CTF's</h3>
+<h3 align="right">Hackathons + CTF's<h3>
 * Item 1
 * Item 2
 
