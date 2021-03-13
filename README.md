@@ -35,17 +35,18 @@
 <h3 align="left">Hackathons + CTF's<h3>
   <p>
     
-    1. 5x Tech4kidz Hackathons
-    2. CU hacking
-    3. UofThacks
-    4. HVtechFest
-    5. Snakes and Hackers
-    6. HackUpstate
-    7. 2 CTF's inclucing samsung
+    5x Tech4kidz Hackathons
+    CU hacking
+    UofThacks
+    HVtechFest
+    Snakes and Hackers
+    HackUpstate
+    2 CTF's inclucing samsung
+    
 </p>
 
 
-<h3 align="left">Peronsal Websites(under development)<h3>
+<p align="left">Peronsal Websites(under development)<p>
 <ul>
   
     cryptofire.space
