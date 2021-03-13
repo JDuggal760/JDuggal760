@@ -1,10 +1,5 @@
-
-<img
-src=“Downloads/Jared D.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![GitHub Logo](/Downloads/Jared D.png)
+Format: ![Alt Text](url)
 <!--
 **JDuggal760/JDuggal760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
