@@ -48,17 +48,12 @@
   <p>
     
     1. 5x Tech4kidz Hackathons
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-5x Tech4kidz Hackathons
-CU hacking
-UofThacks 
-HVtechfest
-Snakes and Hackers
-HackUpstate
-2 CTF's inclucing samsung
+    2. CU hacking
+    3. UofThacks
+    4. HVtechfest
+    5. Snakes and Hackers
+    6. HackUpstate
+    7. 2 CTF's inclucing samsung
 </p>
 
 <br><br>
