@@ -1,6 +1,6 @@
 ![Jared D (1)](https://user-images.githubusercontent.com/77640905/111035427-87448c80-83e8-11eb-84c2-3d50eb5ebb5b.png)
 <h1>About Me</h1>
-<h3>Languages I Know & "use"</h3>
+<h3>Languages I Know & Use</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -43,6 +43,12 @@
 
   </p>
   <p align="center">
+
+<h3>Hackathons+ CTF's</h3>
+* Item 1
+* Item 2
+
+
 
 
 <h1> Get in Touch! </h1>
