@@ -46,22 +46,22 @@
 
 <h2 align="left">Hackathons + CTF's<h2>
   <p>
-* 5x Tech4kidz Hackathons
-* CU hacking
-* UofThacks 
-* HVtechfest
-* Snakes and Hackers
-* HackUpstate
-* 2 CTF's inclucing samsung
+5x Tech4kidz Hackathons
+CU hacking
+UofThacks 
+HVtechfest
+Snakes and Hackers
+HackUpstate
+2 CTF's inclucing samsung
 </p>
 
 <br><br>
 
 <h2>My Websites<h2>
   <h4>
-    * reviewdat.tech
-    * pcpanel.tech
-    * cryptofire.space
+   reviewdat.tech
+   pcpanel.tech
+   cryptofire.space
     <h4>
 
 <h1> Get in Touch! </h1>
