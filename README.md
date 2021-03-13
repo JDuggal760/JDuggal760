@@ -1,4 +1,4 @@
-![Jared D (1)](width="500" height="500" https://user-images.githubusercontent.com/77640905/111035427-87448c80-83e8-11eb-84c2-3d50eb5ebb5b.png)
+![Untitled design (6)](https://user-images.githubusercontent.com/77640905/111040845-25dde700-8403-11eb-9755-ad87c89c7a9c.png)png)
 <h1>About Me</h1>
 <h3>Languages I Know & "use"</h3>
 
