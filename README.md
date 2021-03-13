@@ -60,9 +60,9 @@
 <h3 align="left">Perons<h3>
 <ul>
   
-    <li>cryptofire.space</li>
-    <li>reviewdat.tech</li>
-    <li>pcpanel.tech</li>
+    <li align="left">cryptofire.space</li>
+    <li align="left">reviewdat.tech</li>
+    <li align="left">pcpanel.tech</li>
   
 </ul>
 
