@@ -1,5 +1,5 @@
-![GitHub Logo](/Pictures/Jared D.png)
-Format: ![Alt Text](url)
+![Jared D (1)](https://user-images.githubusercontent.com/77640905/111035427-87448c80-83e8-11eb-84c2-3d50eb5ebb5b.png)
+
 <!--
 **JDuggal760/JDuggal760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
