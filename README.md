@@ -8,6 +8,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 <h3>Services & Frameworks I Know & Use</h3>
 
