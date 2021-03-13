@@ -1,6 +1,6 @@
 
 <img
-src=“Downloads/Jared.jpg”
+src=“Downloads/Jared D.jpg”
 raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
