@@ -26,9 +26,25 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=339933)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=339933)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=339933)
+
+
 <h2> Github Stats </h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=JDuggal760=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
+<div>
+  <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&margin-w=15&margin-h=15&theme=onedark"/>
+  </a>
+  </p>
+</div>
+<br />
+<div align="center">
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JDuggal760&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDuggal760&layout=compact&theme=radical" />
+  </p>
+  <p align="center">
+
+
 <h1> Get in Touch! </h1>
 <p><a href="https://github.com/JDuggal760" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
  <a href="https://www.linkedin.com/in/jared-duggal-a902191b9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://reviewtech.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
