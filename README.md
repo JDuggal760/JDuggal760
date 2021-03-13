@@ -44,12 +44,25 @@
   </p>
   <p align="center">
 
-<h3 align="right">Hackathons + CTF's<h3>
-* Item 1
-* Item 2
+<h2 align="left">Hackathons + CTF's<h2>
+  <p>
+* 5x Tech4kidz Hackathons
+* CU hacking
+* UofThacks 
+* HVtechfest
+* Snakes and Hackers
+* HackUpstate
+* 2 CTF's inclucing samsung
+</p>
 
+<br><br>
 
-
+<h2>My Websites<h2>
+  <h4>
+    * reviewdat.tech
+    * pcpanel.tech
+    * cryptofire.space
+    <h4>
 
 <h1> Get in Touch! </h1>
 <p><a href="https://github.com/JDuggal760" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
