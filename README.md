@@ -60,9 +60,9 @@
 <h3 align="left">Peronsal Websites(under development)<h3>
 <ul>
   
-    <li align="left">cryptofire.space</li>
-    <li align="left">reviewdat.tech</li>
-    <li align="left">pcpanel.tech</li>
+    cryptofire.space
+    reviewdat.tech
+    pcpanel.tech
   
 </ul>
 
