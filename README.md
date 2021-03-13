@@ -57,13 +57,14 @@
 </p>
 
 
-<h3 align="left">Hackathons + CTF's<h3>
-  <p>
-    
-    1. pcpanel.tech
-    2. reviewdat.tech
-    3. cryptofire.space
-</p>
+<h3 align="left">Perons<h3>
+<ul>
+  
+    <li>cryptofire.space</li>
+    <li>reviewdat.tech</li>
+    <li>pcpanel.tech</li>
+  
+</ul>
 
 <h1> Get in Touch! </h1>
 <p><a href="https://github.com/JDuggal760" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
