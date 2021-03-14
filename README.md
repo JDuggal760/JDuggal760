@@ -41,7 +41,7 @@
     HVtechFest
     Snakes and Hackers
     HackUpstate
-    2 CTF's inclucing samsung
+    2 CTF's inclucing samsung CTF and others on CTFtime
     
 </p>
 
